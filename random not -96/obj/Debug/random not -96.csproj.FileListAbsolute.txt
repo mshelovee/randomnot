@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\random not -96\random not -96\bin\Debug\random not -96.exe.config
+C:\Users\User\source\repos\random not -96\random not -96\bin\Debug\random not -96.exe
+C:\Users\User\source\repos\random not -96\random not -96\bin\Debug\random not -96.pdb
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random_not__96.Form1.resources
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random_not__96.Properties.Resources.resources
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.exe
+C:\Users\User\source\repos\random not -96\random not -96\obj\Debug\random not -96.pdb
